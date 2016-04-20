@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">COSCproject</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reg_url">click here</string>
+    <string name="actual_url">http://www.google.com</string>
+    <string name="reg_button_title">Register at this website:</string>
+    <string name="physical_reg_string">Registration at Event</string>
+    <string name="location_reg_string">Register at: Location</string>
+    <string name="or">Or</string>
+    <string name="title">Hosted By:</string>
+    <string name="welcome_string">This Math conference is brought to you by:</string>
+
+    <!-- PLACEHOLDER -->
+    <string-array name="parent">
+        <item>Hotels</item>
+        <item>Restaurants</item>
+        <item>Local Attractions</item>
+    </string-array>
+    <string-array name="child_hotel">
+        <item>Hotel A</item>
+        <item>Hotel B</item>
+        <item>Hotel C</item>
+    </string-array>
+    <string-array name="child_rest">
+        <item name="americanr">American</item>
+        <item name="chineser">Chinese</item>
+        <item name="thair">Thai</item>
+        <item name="indianr">Indian</item>
+    </string-array>
+    <string-array name="child_attract">
+        <item>Attraction A</item>
+        <item>Attraction B</item>
+        <item>Attraction C</item>
+    </string-array>
+    <string-array name="american">
+        <item>American Restaurant 1</item>
+        <item>American Restaurant 2</item>
+        <item>American Restaurant 3</item>
+    </string-array>
+    <string-array name="chinese">
+        <item>Chinese Restaurant 1</item>
+        <item>Chinese Restaurant 2</item>
+        <item>Chinese Restaurant 3</item>
+    </string-array>
+    <string-array name="thai">
+        <item>Thai Restaurant 1</item>
+        <item>Thai Restaurant 2</item>
+        <item>Thai Restaurant 3</item>
+    </string-array>
+    <string-array name="indian">
+        <item>Indian Restaurant 1</item>
+        <item>Indian Restaurant 2</item>
+        <item>Indian Restaurant 3</item>
+    </string-array>
+</resources>
